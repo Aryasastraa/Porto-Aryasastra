@@ -79,8 +79,8 @@ const projects = [
       'Export Ringkasan Hasil Analisis ke Format Ringkas Siap Lampiran Laporan Skripsi',
       'Antarmuka Ringan, Cepat, dan Terintegrasi dengan Penyimpanan Data yang Aman'
     ],
-    tech: ['Laravel', 'MySQL', 'JavaScript'],
-    link: 'https://academic.microtools.my.id',
+    tech: ['NextJS', 'TailwindCSS', 'JavaScript'],
+    link: 'https://calculator.microtools.my.id',
     github: '#',
   }
 ];
