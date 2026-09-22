@@ -17,7 +17,7 @@ const Footer = () => {
               Web Developer yang berfokus pada solusi digital yang presisi, bersih, dan fungsional.
             </p>
             <div className="footer-socials">
-              <a href="https://github.com/Aryasstraa" target="_blank" rel="noopener noreferrer" className="footer-social-icon" aria-label="GitHub">
+              <a href="https://github.com/Aryasastraa" target="_blank" rel="noopener noreferrer" className="footer-social-icon" aria-label="GitHub">
                 <FaGithub size={20} />
               </a>
               <a href="https://www.linkedin.com/in/aryasastraa" target="_blank" rel="noopener noreferrer" className="footer-social-icon" aria-label="LinkedIn">
@@ -53,7 +53,7 @@ const Footer = () => {
               </div>
               <div className="contact-item">
                 <FaGithub size={16} color="var(--primary)" />
-                <span>Aryasstraa</span>
+                <span>Aryasastraa</span>
               </div>
               <div className="contact-item">
                 <FaMapMarkerAlt size={16} color="var(--primary)" />

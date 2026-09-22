@@ -65,7 +65,7 @@ const Contact = () => {
             <p style={{ fontWeight: 700, display: 'flex', alignItems: 'center', gap: '8px' }}>
               <FaGithub size={18} color="var(--primary)" />
               <span>GitHub : </span>
-              <a href="https://github.com/Aryasstraa" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--primary)', textDecoration: 'none' }}>Aryasstraa</a>
+              <a href="https://github.com/Aryasastraa" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--primary)', textDecoration: 'none' }}>Aryasastraa</a>
             </p>
           </div>
         </div>
